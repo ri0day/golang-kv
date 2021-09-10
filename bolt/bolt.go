@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/imkira/go-ttlmap"
-	"github.com/ucwong/golang-kv/common"
+	"github.com/ri0day/golang-kv/common"
 
 	bolt "go.etcd.io/bbolt"
 )
